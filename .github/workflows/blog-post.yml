@@ -1,0 +1,23 @@
+name: Latest blog posts
+
+# README の Latest Posts を blog.c12o.net の RSS から自動更新する。
+# 毎時 + 手動実行。記事を公開したら手動実行で即反映も可。
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://blog.c12o.net/rss.xml"
+          max_post_count: 5
+          commit_message: "chore: update latest blog posts"
