@@ -63,9 +63,9 @@
 
 ### ✍️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pandas で and が使えず &amp; が要る理由](https://blog.c12o.net/posts/pandas-and-vs-ampersand/)
+- [Pythonでサッカー分析を学ぼうとしたら、無料のxGが消えていた](https://blog.c12o.net/posts/football-data-sources-2026/)
 - [指でなぞると凍る画像モザイク——端末内完結のプライバシー PWA を作った](https://blog.c12o.net/posts/frost-mosaic/)
 - [Go の RE2 でストリーミングフィルタを安全に書く](https://blog.c12o.net/posts/go-re2-streaming-filter/)
 - [Cloudflare Workers とは何か：エッジ実行環境の基礎](https://blog.c12o.net/posts/cloudflare-workers-introduction/)
-- [Cloudflare Pages とは何か：静的サイトホスティングの実力](https://blog.c12o.net/posts/cloudflare-pages-introduction/)
-- [uv で Python 環境構築を爆速にする](https://blog.c12o.net/posts/uv-python-setup/)
 <!-- BLOG-POST-LIST:END -->
