@@ -42,7 +42,7 @@
 
 | プロジェクト | 概要 | リンク |
 |---|---|---|
-| **NextRep** | 電波の届かないジムでも使える RPE ベースのトレ記録 PWA | [App](https://nextrep.c12o.net) · [Case study](https://c12o.net/projects/nextrep/) |
+| **NextRep** | 電波の届かないジムでも使える RPE ベースのトレ記録 PWA | [App](https://nextrep.c12o.net) |
 | **mask-pipe** | ターミナル出力中のシークレットをパイプでリアルタイムマスクする Go 製 CLI | [Repo](https://github.com/c12o-dev/mask-pipe) `OSS` |
 | **oneshot-zap** | X の「スパム報告 → ブロック」を1クリック化する Chrome 拡張 | [Repo](https://github.com/c12o-dev/oneshot-zap) `OSS` |
 | **Frost** | 指でなぞった所を氷霜で隠す、端末内完結の画像モザイク PWA | [App](https://frost.c12o.net) · [Repo](https://github.com/c12o-dev/frost-mosaic) `OSS` |
