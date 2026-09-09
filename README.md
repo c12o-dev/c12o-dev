@@ -42,12 +42,10 @@
 
 | プロジェクト | 概要 | リンク |
 |---|---|---|
-| **NextRep** | 電波の届かないジムでも使える RPE ベースのトレ記録 PWA | [App](https://nextrep.c12o.net) |
-| **mask-pipe** | ターミナル出力中のシークレットをパイプでリアルタイムマスクする Go 製 CLI | [Repo](https://github.com/c12o-dev/mask-pipe) `OSS` |
-| **oneshot-zap** | X の「スパム報告 → ブロック」を1クリック化する Chrome 拡張 | [Repo](https://github.com/c12o-dev/oneshot-zap) `OSS` |
-| **Frost** | 指でなぞった所を氷霜で隠す、端末内完結の画像モザイク PWA | [App](https://frost.c12o.net) · [Repo](https://github.com/c12o-dev/frost-mosaic) `OSS` |
-| **theme-slot** | 個人開発のお題を「ジャンル × アプリ種類」で引くスロット | [App](https://theme-slot.c12o.net) |
-| **Seu Days** | Astro 6 + Svelte Islands の個人ブログ。予約公開を内製 | [Blog](https://blog.c12o.net) |
+| **Frost** | なぞった場所が氷霜ガラスで曇る、端末内完結の画像モザイク PWA | [App](https://frost.c12o.net) · [Repo](https://github.com/c12o-dev/frost-mosaic) `OSS` |
+| **Theme Slot** | 次に何を作るかを、スロットで決める PWA | [App](https://theme-slot.c12o.net) |
+| **Diary Stamps** | 旅の記録を溜めて、Claude で日記にする PWA | [App](https://diary-stamps.c12o.net) |
+| **mask-pipe** | パイプ経由で、出力中のシークレットを隠す Go 製 CLI | [Repo](https://github.com/c12o-dev/mask-pipe) `OSS` |
 
 > 詳しいケーススタディは **[c12o.net](https://c12o.net)** に。
 
