@@ -1,12 +1,12 @@
 <h1 align="center">Seu (c12o)</h1>
 
 <p align="center">
-  <strong>Backend developer</strong> — Python と AWS を中心に、API・DB 設計からクラウド運用まで。<br>
-  個人では、ローカルファースト / オフライン / エッジな Web アプリを作っています。
+  バックエンドエンジニアです。仕事では Python と AWS を使った Web システムのバックエンドを、設計から運用まで担当しています。<br>
+  個人では、オフラインでも動く PWA や、ターミナルで使う CLI を作って公開しています。
 </p>
 
 <p align="center">
-  <a href="https://c12o.net">🌐 Portfolio</a> ·
+  <a href="https://c12o.net">🌐 c12o.net</a> ·
   <a href="https://blog.c12o.net">✍️ Blog (Seu Days)</a>
 </p>
 
@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 
-**仕事（Backend / Cloud 中心）**
+**仕事（Backend / Cloud）**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -42,12 +42,12 @@
 
 | プロジェクト | 概要 | リンク |
 |---|---|---|
-| **Frost** | なぞった場所が氷霜ガラスで曇る、端末内完結の画像モザイク PWA | [App](https://frost.c12o.net) · [Repo](https://github.com/c12o-dev/frost-mosaic) `OSS` |
-| **Theme Slot** | 次に何を作るかを、スロットで決める PWA | [App](https://theme-slot.c12o.net) |
-| **Diary Stamps** | 旅の記録を溜めて、Claude で日記にする PWA | [App](https://diary-stamps.c12o.net) |
-| **mask-pipe** | パイプ経由で、出力中のシークレットを隠す Go 製 CLI | [Repo](https://github.com/c12o-dev/mask-pipe) `OSS` |
+| **Frost** | なぞった場所が氷霜ガラスで曇る画像加工ツール（PWA） | [App](https://frost.c12o.net) · [詳細](https://c12o.net/projects/frost/) · [Repo](https://github.com/c12o-dev/frost-mosaic) `OSS` |
+| **Theme Slot** | 次に何を作るかを、スロットで決めるツール（PWA） | [App](https://theme-slot.c12o.net) · [詳細](https://c12o.net/projects/theme-slot/) |
+| **Diary Stamps** | 旅の記録を溜めて、Claude で日記にするアプリ（PWA） | [App](https://diary-stamps.c12o.net) · [詳細](https://c12o.net/projects/diary-stamps/) |
+| **mask-pipe** | パイプ経由で、出力中のシークレットを隠すツール（Go 製 CLI） | [詳細](https://c12o.net/projects/mask-pipe/) · [Repo](https://github.com/c12o-dev/mask-pipe) `OSS` |
 
-> 詳しいケーススタディは **[c12o.net](https://c12o.net)** に。
+> 作った理由と技術的な判断は **[c12o.net](https://c12o.net)** の各ページに。
 
 ---
 
