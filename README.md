@@ -46,6 +46,7 @@
 | **Theme Slot** | 次に何を作るかを、スロットで決めるツール（PWA） | [App](https://theme-slot.c12o.net) · [詳細](https://c12o.net/projects/theme-slot/) |
 | **Diary Stamps** | 旅の記録を溜めて、Claude で日記にするアプリ（PWA） | [App](https://diary-stamps.c12o.net) · [詳細](https://c12o.net/projects/diary-stamps/) |
 | **mask-pipe** | パイプ経由で、出力中のシークレットを隠すツール（Go 製 CLI） | [詳細](https://c12o.net/projects/mask-pipe/) · [Repo](https://github.com/c12o-dev/mask-pipe) `OSS` |
+| **Feature Catalog** | モダン Web の「ユーザーから見える機能」341 件を、動くデモ付きで引ける語彙索引 | [Site](https://features.c12o.net) · [詳細](https://c12o.net/projects/feature-catalog/) · [Repo](https://github.com/c12o-dev/feature-catalog) `OSS` |
 
 > 作った理由と技術的な判断は **[c12o.net](https://c12o.net)** の各ページに。
 
